@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restaurant DataBase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_row_num">Row Number:</string>
+    <string name="text_row_city">City:</string>
+    <string name="text_row_restaurant">Restaurant:</string>
+    <string name="text_row_attraction">Attraction:</string>
+    <string name="text_row_food">Food:</string>
+
+    <string name="button_first">First:</string>
+    <string name="button_previous">Previous:</string>
+    <string name="button_next">Next:</string>
+    <string name="button_last">Last:</string>
+
+</resources>
